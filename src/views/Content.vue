@@ -25,8 +25,8 @@
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនប្រុសនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">សាលឿត</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ភត្រា</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">សែន</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">វិសាល</div>
         </div>
         <div class="w-[100px] md:w-[200px] font-bold mt-10">
           <img src="/src/assets/generatedtext.png" alt="" />
@@ -35,22 +35,22 @@
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនស្រីនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">គ្រី</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស្រីនាថ</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">យ៉េ</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ដាលីន</div>
         </div>
       </div>
       <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-20">
         ដែលនឹងប្រព្រឹត្តទៅនៅ
       </div>
       <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-        ថ្ងៃអាទិត្យទី២៣ ខែមីនា ឆ្នាំ២០២៥
+        ថ្ងៃអាទិត្យទី ៣០ ខែមីនា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ចុះពីស្ពានផ្លូវកាត់ចំងាយ៥០០ម៉ែត្រ
+        Keo Pril Phnom Penh Thmey, Sen Sok, Phnom Penh, Cambodia
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
-        onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
+        onclick="window.open('https://maps.app.goo.gl/cDh7QgmWUC1jsyqV9', '_blank')"
       >
         <div class="text-2xl md:text-4xl">បើកផែនទី</div>
 
@@ -89,14 +89,14 @@
         <div
           class="flex justify-between items-center mt-20 font-khmer text-yellow-200 text-2xl md:text-3xl md:w-1/2 mx-auto"
         >
-          <div>
-            <div>លោក ណៃ សាលឿត</div>
-            <div>លោកស្រី រឿន ធៀប</div>
-          </div>
-          <div>
-            <div>លោក សេន គ្រី</div>
-            <div>លោកស្រី ឈិន មុំ</div>
-          </div>
+<!--          <div>-->
+<!--            <div>លោក ណៃ សាលឿត</div>-->
+<!--            <div>លោកស្រី រឿន ធៀប</div>-->
+<!--          </div>-->
+<!--          <div>-->
+<!--            <div>លោក សេន គ្រី</div>-->
+<!--            <div>លោកស្រី ឈិន មុំ</div>-->
+<!--          </div>-->
         </div>
         <div  
           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
@@ -127,14 +127,14 @@
           </div>
         </div>
         <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-10">
-          ដែលនឹងប្រព្រឹត្តទៅ ចាប់ពីម៉ោង ៤ ល្ងាច
+          ដែលនឹងប្រព្រឹត្តទៅ ចាប់ពីម៉ោង ៥ ល្ងាច
         </div>
         <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
           ថ្ងៃអាទិត្យទី៣០ ខែមីនា ឆ្នាំ២០២៥
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
-          onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
+          onclick="window.open('https://maps.app.goo.gl/cDh7QgmWUC1jsyqV9', '_blank')"
         >
           <div class="text-2xl md:text-4xl">កត់ទុកក្នុងប្រតិទិន</div>
 
@@ -170,14 +170,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-42.jpg"
+              src="/src/assets/pic1.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-18.jpg"
+              src="/src/assets/pic2.jpg"
               alt=""
             />
           </div>
@@ -186,14 +186,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-37.jpg"
+              src="/src/assets/pic3.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-47.jpg"
+              src="/src/assets/pic4.jpg"
               alt=""
             />
           </div>
@@ -211,22 +211,22 @@
             class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
           >
             <div
-              @click="selectedDay = 'day22'"
+              @click="selectedDay = 'day29'"
               :class="
-                selectedDay === 'day22' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
+                selectedDay === 'day29' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
               "
               class="cursor-pointer mr-10"
             >
-              ២២ មីនា
+              ២៩ មីនា
             </div>
             <div
-              @click="selectedDay = 'day23'"
+              @click="selectedDay = 'day30'"
               :class="
-                selectedDay === 'day23' ? 'text-black bg-white  w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
+                selectedDay === 'day30' ? 'text-black bg-white  w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
               "
               class="cursor-pointer"
             >
-              ២៣ មីនា
+              ៣០ មីនា
             </div>
           </div>
 
