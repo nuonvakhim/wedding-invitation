@@ -28,7 +28,7 @@ const emit = defineEmits(["openContent"]);
       class="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-6 mt-[-10px]"
     >
       <h1 class="text-4xl md:text-7xl font-bold pt-20">
-        <img src="/src/assets/generatedtext.png" alt="" />
+        <img src="/src/assets/visallin-removebg-preview.png" alt="" />
       </h1>
       <p class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-300">
         សូមគោរពអញ្ជើញ

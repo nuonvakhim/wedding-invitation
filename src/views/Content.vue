@@ -29,7 +29,7 @@
           <div class="text-2xl md:text-5xl mt-2 md:mt-10">វិសាល</div>
         </div>
         <div class="w-[100px] md:w-[200px] font-bold mt-10">
-          <img src="/src/assets/generatedtext.png" alt="" />
+          <img src="/src/assets/visallin-removebg-preview.png" alt="" />
         </div>
         <div>
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
@@ -232,7 +232,7 @@
 
           <!-- Display Information -->
           <div class="mt-5">
-            <p v-if="selectedDay === 'day22'">
+            <p v-if="selectedDay === 'day29'">
               <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
                កម្មវិធីពេលរសៀល
               </h2>
@@ -268,7 +268,7 @@
                អញ្ជើញភ្ញៀវកិត្តិយសសេពសោយអាហារ
               </h2>
             </p>
-            <p v-if="selectedDay === 'day23'">
+            <p v-if="selectedDay === 'day30'">
               <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
                កម្មវិធីពេលព្រឹក
               </h2>
